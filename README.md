@@ -1,11 +1,11 @@
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mat-123&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-</div>
+<p align="left">
+### Hi there 👋<br>I'm Matteo Montani, currently a full stack developer student.</p>
 
 ###
 
-<p align="left">
-### Hi there 👋<br>I'm Matteo Montani, currently a full stack developer student.</p>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mat-123&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+</div>
 
 ###
 
@@ -33,3 +33,4 @@
   </a>
 </div>
 
+###
