@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 Currently learning a variety of web technologies, undergoing a bootcamp, and self-studying Node.js and Electron to enhance my web development skills.<br>🎯 Goals: Full Stack Developer passionate about blockchain and cryptocurrencies, aiming to contribute to Web 3.0 by creating secure and transparent user experiences through smart contracts and decentralized solutions.<br>🚀 Developing a crypto portfolio analysis tool to track and analyze cryptocurrency and NFT holdings.</p>
+<p align="left">📚 Currently learning a variety of web technologies, undergoing a bootcamp, and self-studying Node.js and Electron to enhance my web development skills.<br>🎯 Being passionate about blockchain and cryptocurrencies, my goal is to contribute to Web 3.0 by creating secure and transparent user experiences through smart contracts and decentralized solutions.<br>🚀 Developing a crypto portfolio analysis tool to track and analyze cryptocurrency and NFT holdings.</p>
 
 ###
 
