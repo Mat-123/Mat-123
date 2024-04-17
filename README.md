@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Matteo and I'm a Full Stack Developer Student, from Rome.</p>
+<p align="left">My name is Matteo and I'm a Full Stack Deve Student, from Rome.</p>
 
 ###
 
